@@ -5,3 +5,5 @@ Mustard
 Old Bay
 
 Combine ingredients, form into cakes, broil on high
+
+Garnish with Parsley
